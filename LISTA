@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title> LISTA </title>
+  </head>
+    <body>
+        <h1> Teste </h1>
+        <ul>
+            <li> Limpar carro </li>
+            <li> compras </li>
+            <li> academia </li>
+        </ul>
+      <h1> Listas ordenadas </h1>
+      <ol start="50"> 
+          <li> Fiona </li>
+          <li> sherk</li>
+          <li> burro</li>
+      </ol>
+    </body>
+</html>

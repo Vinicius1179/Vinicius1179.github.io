@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title> Lista de compras mercado </title>
+  </head>
+  <body>
+    <h1> Lista do mercado </h1>
+    <hr>
+    <br>
+        <ul>
+            <li><b><mark> Carne</mark> </b></li>
+            <li><b> <mark> Produtos de higiene</mark></b></li>
+            <li><b><mark>  Produtos de limpeza</mark> </b></li>
+            <li><s> Padaria</s></li>
+            <li><s> bolachas</s> </li>
+        </ul>
+  </body>

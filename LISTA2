@@ -1,0 +1,29 @@
+<html> 
+    <body>
+        <hr>
+        <h1> listas de definições </h1>
+        <d1>
+            <dt> título da definição</dt>
+            <dd> A descrição</dd>
+            <dt> Apple </dt>
+            <dd> Maça</dd>
+        </d1>
+</body>
+<body>
+    <p> TESTE EM ITALICO<i> teste em italico</i></p>
+    <p> TESTE EM ITALICO<em> teste em italico em narração</em></p>
+    <p> TESTE EM NEGRITO <b> teste em negrito</b></p>
+    <p>Teste em negrito na narração <strong> Teste em negrito em narração</strong></p>
+    <p> Texto destacado <mark> Texto destacado </mark></p>
+    <p> Texto riscado <s> texto riscado</s></p>
+    <p> Texto misto <i><s><b><mark> misto </mark></b></s></i></p>
+    <p> Texto sobrescrito <sup> Sobrescrito </sup></p>
+    <p> texto subrescrito <sub> Subrescrito </sub></p>
+    <p> Texto de Rodapé <small> Rodapé (letra pequena) </small></p>
+    <p> Texto de código<code> Código </code></p>
+    <p> Texto com espaçamento &nbsp &nbsp &nbsp Teste</p>
+    <p> Texto com pulo de linha (br)</p>
+    <br> <br>
+    <P> teste </P>
+
+</body>

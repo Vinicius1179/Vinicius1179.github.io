@@ -1,0 +1,20 @@
+<html>
+    <head>
+    <title> IMAGENS </title>
+    </head> 
+<body>
+    <h1> IMAGENS </h1>
+    <hr>
+     <img src="imagens/foto_1.jpg" width="200px" height="200px">
+     <img src="imagens/foto_2.jpg" width="200px" alt="Um texto alternativo" title="O título de imagem">
+     <figurecaption>A legenda da imagem </figurecaption> 
+     <figure> A legenda da imagem </figure>
+   <h1> Link </h1>
+    <a href="https://www.google.com.br/?hl=pt-BR" > Um link / troca de site </a> 
+    <br>
+    <br>
+    <a href="#secao_01> Ir para a seção 01"> Ir para:</a>
+    <br>
+    <br>
+    <h3 id="secao_01. Seção 03"></h3>
+</body>

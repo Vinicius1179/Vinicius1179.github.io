@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title> Pontos túristicos de Santa Catarina</title>
+</head>
+<body>
+    <h1> Beto Carrero World </h1>
+    <p>Diversão garantida todos os dias é no Beto Carrero World, Aproveite com a família e amigos. Viva aventuras incríveis no Beto Carrero World. Diversão garantida para toda a família. Parque Sempre Aberto. Aberto Todos os Dias. O maior da América Latina.</p>
+    <img src="imagens/beto.jpg"width="200px">
+    <img src="beto1.jpg" width="223px">
+    <hr>
+       <h1> Vila Germânica </h1> 
+       <p> O Parque Vila Germânica, antigo "Parque de Exposições da PROEB", está localizado no bairro da Velha, em Blumenau, no estado brasileiro de Santa Catarina. Era chamado inicialmente de "Feira de Amostras de Santa Catarina"</p>
+       <img src="vila.jpg">
+</body>

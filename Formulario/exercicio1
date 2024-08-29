@@ -3,6 +3,7 @@
         <meta charset="utf-8">
     </head>
         <body>
+            <h1> CADASTRO</h1>
             <form>
                 <fieldset>
                     <legend> Faça seu login abaixo:</legend>
@@ -15,8 +16,5 @@
                         <label>Primeiro acesso: <input type="button" value="Clique aqui"> </label>
                 </fieldset>
             </form>
-
-
-
-
         </body>
+</html>

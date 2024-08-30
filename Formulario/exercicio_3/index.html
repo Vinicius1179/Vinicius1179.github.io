@@ -1,3 +1,36 @@
 <html>
-  
+   <head>
+     <title> Projetos</title>
+     <meta charset="utf-8">
+   </head>
+  <body>
+    <h1> Projetos </h1>
+    <form>
+      <fieldset>
+        <legend> <h1> Projetos< /h1> </legend>
+        <label>Nome do projeto: <input type="text" name="texto" placeholder="Informe o nome do projeto"></label>
+        <label> Inicio do projeto:<input type="date" name="data" placeholder="escolha uma data"> </label>
+        <label> <input type="time" name="horario" placeholder="escolha um horario"></label>
+        <br>
+        <label> Fim do projeto:<input type="date" name="datafim" placeholder="escolha uma data"> </label>
+        <label> <input type="time" name="horariofim" placeholder="escolha um horario"></label>
+        <br>
+        <label for="prioridade">Prioridade:</label>
+        <select name="prioridade">
+          <option value="baixa">Baixa</option>
+          <option value="media">Média</option>
+          <option value="alta">Alta</option>
+                </select>
+        <br>
+        <label> Descrição do projeto: 
+        <br>
+        <textarea rows="10" cols="30">Minhas observações...</textarea>
+        <br>
+        <br>
+        <label> <input type="submit" value="Salvar"></label>
+        <label> <input type="reset" Valuer="Limpar"></label>
+
+      </fieldset>
+    </form>
+  </body>
 </html>

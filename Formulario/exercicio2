@@ -16,6 +16,10 @@
                         <label> O que levar: 
                         <br>
                         <textarea rows="10" cols="30">Minhas observações...</textarea>
+                        <br>
+                        <br>
+                        <label> <input type="submit" value="Salvar"></label>
+                        <label> <input type="reset" Valuer="Limpar"></label>
                 </fieldset>
             </form>
         </body>
